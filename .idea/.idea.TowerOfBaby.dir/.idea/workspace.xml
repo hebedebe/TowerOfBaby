@@ -4,10 +4,7 @@
     <projectFile>TowerOfBaby.uproject</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad70dfe5-857f-4dc2-9e50-de8706058797" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actors/Babies/BP_Baby.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actors/Babies/BP_Baby.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Gamemodes/GM_Main.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Gamemodes/GM_Main.uasset" afterDir="false" />
-    </list>
+    <list default="true" id="ad70dfe5-857f-4dc2-9e50-de8706058797" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +37,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Uproject.TowerOfBaby.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "i-fucked-it-up",
     "ignore.virus.scanning.warn.message": "true",
     "vue.rearranger.settings.migration": "true"
   }
